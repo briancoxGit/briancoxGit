@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @briancoxGit
 - 👀 I’m interested in solving reaaly hard problems and automating tasks with software.
-- 🌱 I’m currently learning satellit telemetry and innovating on temporal attribute concepts.
+- 🌱 I’m currently learning satellite telemetry and innovating on temporal attribute concepts.
 - 💞️ I’m looking to collaborate on time series data and object abstraction.
 - 📫 How to reach me ...
 
